@@ -7,7 +7,7 @@ import (
 	"github.com/klever-io/klever-go-sdk/provider"
 	"github.com/klever-io/klever-go-sdk/provider/network"
 	"github.com/klever-io/klever-go-sdk/provider/utils"
-	"github.com/klever-io/minthree-commons-go/common/chains"
+	"github.com/Minthree/minthree-commons-go/common/chains"
 )
 
 type KleverChain struct {

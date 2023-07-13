@@ -1,7 +1,7 @@
 package blockchain
 
 import (
-	"github.com/klever-io/minthree-commons-go/common/chains"
+	"github.com/Minthree/minthree-commons-go/common/chains"
 	"testing"
 	"time"
 

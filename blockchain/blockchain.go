@@ -1,8 +1,8 @@
 package blockchain
 
 import (
-	"github.com/klever-io/minthree-commons-go/common/chains"
-	"github.com/klever-io/minthree-commons-go/common/constants"
+	"github.com/Minthree/minthree-commons-go/common/chains"
+	"github.com/Minthree/minthree-commons-go/common/constants"
 )
 
 func NewBlockchain(chain int, opts ...IBlockchainOpts) (IBlockchain, error) {
