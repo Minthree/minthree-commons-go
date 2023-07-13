@@ -1,4 +1,4 @@
-module github.com/klever-io/minthree-commons-go
+module github.com/Minthree/minthree-commons-go
 
 go 1.19
 
